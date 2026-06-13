@@ -17,7 +17,7 @@ The dashboard provides an easy-to-use and interactive experience through filters
 #### 🟠 Datasets :-
 
 - <a href="https://github.com/RanjanMaityAI/US-Labor-Statistics-Dashboard-2017-2020-/blob/main/US_Labor_Statistics(Raw%20Data).xlsx">Raw Dataset</a>
-- <a href="https://github.com/RanjanMaityAI/US-Labor-Statistics-Dashboard-2017-2020-/blob/main/Mojo%20Career%20Project.xlsx">Project Dataset</a>
+- <a href="https://github.com/RanjanMaityAI/US-Labor-Statistics-Dashboard-2017-2020-/blob/main/Mojo%20Careers.xlsx">Project Dataset</a>
 
 #### 🟠 Dataset Overview :-
 
